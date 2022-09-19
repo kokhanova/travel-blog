@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+header {
+    background: red;
+    padding: 30px calc(50% - 600px);
+}
+
+.banner {
+    background-image: url(../travel_blog/img/img.jpg);
+    color: #350908;
+    padding: 100px calc(50% - 600px);
+    background-position: center;
+    background-size: cover;
+}
+
+h1 {
+    width: 500px;
+}
+
+.banner p {
+    width: 500px;
+}
+
+.info {
+    background-color: coral;
+    padding: 30px calc(50% - 600px);
+}
+
+img {
+    height: 30px;
+}
